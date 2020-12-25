@@ -7,4 +7,4 @@ function fact (n)
   end
 end
 
-return fact(5)
+return fact(4)
