@@ -7,6 +7,4 @@ function fact (n)
   end
 end
 
-print(fact(5))
-
-return fact(5)
+return fact(6)
